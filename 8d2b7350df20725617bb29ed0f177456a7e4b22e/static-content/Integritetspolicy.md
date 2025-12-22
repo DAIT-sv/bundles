@@ -1,19 +1,24 @@
+
+*IMG:Man som äter kakor vid sin dator.*![](/images/photos/cookies/cookies-w-500.webp)
+
 # Integritetspolicy
 
-Denna integritetspolicy gäller fr.o.m. 22 december 2025.
+*Denna integritetspolicy gäller fr.o.m. 22 december 2025.*
 
 ## Personuppgiftsansvarig
 
 Personuppgiftsansvarig för behandlingen är:
 
-**DAIT AB**
+```text
+DAIT AB
 Org.nr: 559543-3367
 Killhult 7110
 286 74 Skånes Fagerhult
 Sverige
-E-post: info@dait.se
+```
+E-post: [info@dait.se](mailto:info@dait.se)
 
-Vid frågor om hur vi behandlar dina personuppgifter är du välkommen att kontakta oss.
+Vid frågor om hur vi behandlar dina personuppgifter är du välkommen att [kontakta oss](/kontakta-oss).
 
 ## Personlig information
 
@@ -34,7 +39,9 @@ Till skillnad från många andra webbplatser använder vi *inte* några samarbet
 
 För vår besöksstatistik samlar vi även in data såsom val av webbläsare, operativsystem och liknande. Denna data används dock inte för att identifiera unika användare, dvs. vi använder *inte* s.k. fingerprinting. Även IP-adresser samlas in men anonymiseras i vår besöksstatistik. I våra säkerhetsloggar finns IP-adresser i 30 dagar för att kunna spåra angreppsförsök etc.
 
-Vår samarbetspartner (tredje part) som även de kan se liknande teknisk information är **jsDelivr** (Volentio JSD Limited), en CDN-tjänst. Vi använder det nätverk av servrar de tillhandahåller för att kunna leverera vår webbsida snabbare och mer redundant till våra besökare. jsDelivr tillhandahåller ett DPA/Personuppgiftsbiträdesavtal som reglerar hur de och deras underleverantörer (bl.a. Cloudflare och Fastly) behandlar personuppgifter. jsDelivr och deras underleverantörer kan överföra data till länder utanför EU/EES, inklusive USA. Dessa överföringar skyddas av EU:s standardavtalsklausuler (SCC).
+Webbplatsen driftas hos [Contabo GmbH](https://contabo.com/en) i Tyskland.
+
+Vår samarbetspartner (tredje part) som även de kan se liknande teknisk information är [jsDelivr](https://www.jsdelivr.com) (Volentio JSD Limited), en CDN-tjänst. Vi använder det nätverk av servrar de tillhandahåller för att kunna leverera vår webbsida snabbare och mer redundant till våra besökare. jsDelivr tillhandahåller ett [DPA/Personuppgiftsbiträdesavtal](https://www.jsdelivr.com/documents/data-processing-agreement.pdf) som reglerar hur de och deras underleverantörer (bl.a. Cloudflare och Fastly) behandlar personuppgifter. jsDelivr och deras underleverantörer kan överföra data till länder utanför EU/EES, inklusive USA. Dessa överföringar skyddas av EU:s standardavtalsklausuler (SCC).
 
 ## Känslig data
 
@@ -64,7 +71,7 @@ Vi behandlar personuppgifter baserat på följande rättsliga grunder:
 | Kontouppgifter (e-post, namn) | Så länge kontot är aktivt, eller tills du begär radering |
 | Sessionscookies | Raderas efter 2 timmars inaktivitet eller när webbläsaren stängs |
 | IP-adresser i säkerhetsloggar | 30 dagar |
-| Kontaktformulär | Skickas som e-post och sparas enligt företagets normala rutiner för e-posthantering |
+| Kontaktformulär | Skickas som email och sparas enligt företagets normala rutiner för hantering av email |
 | Anonymiserad besöksstatistik | Obegränsad tid (innehåller inga personuppgifter) |
 
 ## Dina rättigheter
@@ -82,9 +89,11 @@ För att utöva dina rättigheter, kontakta oss via uppgifterna ovan.
 
 ## Tillsynsmyndighet
 
-Om du anser att vi behandlar dina personuppgifter i strid med GDPR har du rätt att lämna in ett klagomål till Integritetsskyddsmyndigheten (IMY).
+Om du anser att vi behandlar dina personuppgifter i strid med GDPR har du rätt att lämna in ett klagomål till [Integritetsskyddsmyndigheten (IMY)](https://www.imy.se).
 
-**IMY – Integritetsskyddsmyndigheten**
+```text
+IMY – Integritetsskyddsmyndigheten
 Box 8114
 104 20 Stockholm
-[imy.se](https://www.imy.se)
+Sverige
+```
