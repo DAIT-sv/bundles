@@ -3,7 +3,7 @@
 
 # Integritetspolicy
 
-*Denna integritetspolicy gäller fr.o.m. 22 december 2025.*
+*Denna integritetspolicy gäller fr.o.m. 24 december 2025.*
 
 ## Personuppgiftsansvarig
 
@@ -45,11 +45,14 @@ Vi använder endast system som körs på våra egna servrar och som endast vi ha
 
 ### Teknisk data
 
-För vår besöksstatistik samlar vi även in data såsom val av webbläsare, operativsystem och liknande. Denna data används dock inte för att identifiera unika användare, dvs. vi använder *inte* s.k. fingerprinting. Även IP-adresser samlas in men anonymiseras i vår besöksstatistik. I våra säkerhetsloggar finns IP-adresser i 30 dagar för att kunna spåra angreppsförsök etc.
+För vår besöksstatistik samlar vi även in data såsom val av webbläsare, operativsystem och liknande. Denna data används dock inte för att identifiera unika användare, dvs. vi använder inte s.k. fingerprinting. Även IP-adresser samlas in men anonymiseras i vår besöksstatistik. I våra säkerhetsloggar finns IP-adresser i 30 dagar för att kunna spåra angreppsförsök etc.
 
-Vår webbplats och våra databaser driftas hos [Contabo GmbH](https://contabo.com/en) i Tyskland, som tillhandahåller ett DPA/Personuppgiftsbiträdesavtal för denna drift.
+Vår webbplats och våra databaser driftas hos [Contabo GmbH](https://contabo.com/en)  i Tyskland, som tillhandahåller ett DPA/Personuppgiftsbiträdesavtal för denna drift.
 
-Vår samarbetspartner (tredje part) som även de kan se liknande teknisk information är [jsDelivr](https://www.jsdelivr.com) (Volentio JSD Limited), en CDN-tjänst. Vi använder det nätverk av servrar de tillhandahåller för att kunna leverera vår webbsida snabbare och mer redundant till våra besökare. jsDelivr tillhandahåller ett [DPA/Personuppgiftsbiträdesavtal](https://www.jsdelivr.com/documents/data-processing-agreement.pdf) som reglerar hur de och deras underleverantörer (bl.a. Cloudflare och Fastly) behandlar personuppgifter. jsDelivr och deras underleverantörer kan överföra data till länder utanför EU/EES, inklusive USA. Dessa överföringar skyddas av EU:s standardavtalsklausuler (SCC).
+Vår samarbetspartner (tredje part) som även de kan se liknande teknisk information är [jsDelivr](https://www.jsdelivr.com) (Volentio JSD Limited), en CDN-tjänst. Vi använder det nätverk av servrar de tillhandahåller för att kunna leverera vår webbsida snabbare och mer redundant till våra besökare. jsDelivr tillhandahåller ett [DPA/Personuppgiftsbiträdesavtal](https://www.jsdelivr.com/documents/data-processing-agreement.pdf) som reglerar hur de och deras underleverantörer (bl.a. Cloudflare och Fastly) behandlar personuppgifter.
+
+jsDelivr och deras underleverantörer kan överföra data till länder utanför EU/EES, inklusive USA. Dessa överföringar skyddas av [EU:s standardavtalsklausuler](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_sv) (SCC) samt [EU-U.S. Data Privacy Framework](https://www.dataprivacyframework.gov/Program-Overview), då underleverantörerna [Cloudflare](https://www.cloudflare.com) och [Fastly](https://www.fastly.com) är certifierade enligt detta ramverk.
+
 
 ### Cookies och spårningsdata
 
@@ -72,25 +75,26 @@ Eftersom den enda användning vi har av cookies (inloggning) är nödvändig fö
 Vi lagrar ingen känslig data av typen hälsodata, information om etniskt ursprung, politiska åsikter, religiös övertygelse, medlemskap i fackförening, sexuella beteenden, genetiska uppgifter eller biometriska uppgifter.
 
 ## Lagringstider
-
 | Uppgiftstyp | Lagringstid |
-|-------------|-------------|
-| Kontouppgifter (e-post, namn) | Så länge kontot är aktivt, eller tills du begär radering |
-| Sessionscookies | Raderas efter 2 timmars inaktivitet eller när webbläsaren stängs |
-| IP-adresser i säkerhetsloggar | 30 dagar |
-| Kontaktformulär | Skickas som email och sparas enligt företagets normala rutiner för hantering av email |
-| Anonymiserad besöksstatistik | Obegränsad tid (innehåller inga personuppgifter) |
+| :--- | :--- |
+| Kontouppgifter | Så länge kontot är aktivt, eller tills du begär radering. |
+| Sessionscookies | Raderas efter 2 timmars inaktivitet eller stängd webbläsare. |
+| IP-adresser | Sparas i säkerhetsloggar i 30 dagar. |
+| Kontaktformulär | Max 24 månader efter avslutat ärende (eller enligt lagkrav). |
+| Besöksstatistik | Obegränsad tid (helt anonymiserad data). |
 
 
-## Berättigat intresse
-Vi behandlar personuppgifter enligt den rättsliga grunden **berättigat intresse**.
+## Rättslig grund för behandling
+Vad är syftet med vår behandling av personuppgifter?
 
-| Behandling | Syfte |
-|------------|-------------------|
-| Kontoregistrering | E-postadress, lösenord och namn för säkerhetsskäl och identifiering |
-| Besöksstatistik | Anonymiserad data för att förbättra webbplatsen |
-| Säkerhetsloggar | Loggdata för att skydda webbplatsen mot angrepp |
-| Kontaktformulär | Uppgifter du lämnar i formuläret för att besvara ditt ärende |
+| Behandling | Syfte & rättslig grund |
+|------------|------------------------|
+| Kontoregistrering | E-postadress, lösenord och namn för säkerhetsskäl och identifiering, **fullföljande av avtal**|
+| Besöksstatistik | Anonymiserad data för att förbättra webbplatsen, **berättigat intresse** |
+| Säkerhetsloggar | Loggdata för att skydda webbplatsen mot angrepp, **berättigat intresse** |
+| Kontaktformulär | Uppgifter du lämnar i formuläret för att besvara ditt ärende, **berättigat intresse** |
+
+Rättsliga grunder är **fullföljande av avtal** och **berättigat intresse**.
 
 ## Dina rättigheter
 
