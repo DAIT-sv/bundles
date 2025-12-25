@@ -33,7 +33,7 @@ Vi säljer inga varor eller tjänster via webben. Därför samlar vi inte heller
 
 ### Applikationsdata
 
-*Statistik på en pekplatta i händerna på en kvinna.*![](/images/photos/web-stats/web-stats-w-500.webp)
+*IMG:Statistik på en pekplatta i händerna på en kvinna.*![](/images/photos/web-stats/web-stats-w-500.webp)
 
 Vi samlar in information om vilka sidor användare besöker, hur länge de stannar på sidor och vad de klickar på.
 
@@ -41,7 +41,7 @@ Denna information används för att kunna sammanställa besöksstatistik, som hj
 
 Till skillnad från många andra webbplatser använder vi *inte* några samarbetspartner för besöksstatistik och analys av den (som t.ex. Google Analytics).
 
-Vi använder endast system som körs på våra egna servrar och som endast vi har tillgång till.
+Vi använder endast system som körs på våra egna servrar, som bara vi själva har tillgång till.
 
 ### Teknisk data
 
@@ -64,7 +64,7 @@ För icke-inloggade användare använder vi inga cookies eller spårningsdata sp
 
 För att sidor ska laddas så snabbt som möjligt cachas de i användarens webbläsare. Detta är inte att betrakta som spårningsdata.
 
-*Bild på kakor på en bakplåt.*![](/images/photos/cookies-detail/cookies-detail-w-500.webp)
+*IMG:Bild på kakor på en bakplåt.*![](/images/photos/cookies-detail/cookies-detail-w-500.webp)
 
 #### Godkännande av cookies
 
